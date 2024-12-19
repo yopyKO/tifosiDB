@@ -1,7 +1,7 @@
 # tifosiDB
 base de données à importer dans phpMyAdmin
 
-1- Tifosi_db.sql - création de la datebase
+1- Tifosi_db.sql - création de la structure de la base de données
 
 2- Tifosi_datas.sql - chargement des données
 
